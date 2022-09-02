@@ -1,8 +1,8 @@
 # ChatLive
-Chat room project with JavaScript language with the help of NodeJS
+Chat room project with JavaScript language with the help of Socket.io
 ![LiveChat](https://user-images.githubusercontent.com/102506267/188106817-f533b3a0-a2aa-4a33-a21e-e55c47a814c4.jpg)
 
-
+With private chat!
 
 https://user-images.githubusercontent.com/102506267/188107890-37aefa46-8cce-42b2-88c3-3590f61c83ce.mp4
 
