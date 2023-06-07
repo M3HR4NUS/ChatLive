@@ -14,3 +14,8 @@ https://user-images.githubusercontent.com/102506267/188107890-37aefa46-8cce-42b2
 
 A small chat room project using socket.io
 Direction of portfolio
+
+
+To use, download the package from the repository and install the necessary dependencies with the command below
+
+``` npm  i ```
