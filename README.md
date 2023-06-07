@@ -1,5 +1,9 @@
 # ChatLive
-Chat room project with JavaScript language with the help of Socket.io
+`Chat room project with JavaScript language with the help of Socket.io`
+
+
+### I came up with websocket and created a chat room program that can be used to talk in groups and as PV
+
 ![LiveChat](https://user-images.githubusercontent.com/102506267/188106817-f533b3a0-a2aa-4a33-a21e-e55c47a814c4.jpg)
 
 With private chat!
