@@ -18,4 +18,6 @@ Direction of portfolio
 
 To use, download the package from the repository and install the necessary dependencies with the command below
 
-``` npm  i ```
+```
+npm  i
+```
